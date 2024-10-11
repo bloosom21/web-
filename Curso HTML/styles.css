@@ -1,0 +1,61 @@
+body{
+
+    font-family:'Franklin Gothic Medium', sans-serif;
+    background: #ffc999;
+    background-image: url(genshin-impact-final-closed-beta.jpg);
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: 80%;
+    background-attachment: fixed;
+    cursor: url(icons8-cursor-64.png), auto;
+    
+
+
+
+}
+
+
+.menu{
+     list-style: none;
+     padding: 10px;
+     background: #5f9ec2;
+     width: 100%;
+     max-width: 1400px;
+     margin: auto;
+  
+    
+    
+     
+
+}
+.menu li {
+    color: white;
+    padding: 10px;
+    display: block;
+
+}
+.menu li{
+   display: inline-block;
+    text-align: center;
+}
+.menu li:hover{
+    background: #e5d2b9;
+}
+
+footer p{
+    background: #5f9ec2;
+    color: white;
+    padding: 20px;
+    max-width: 1400px;
+    text-align: left;
+   margin: auto;
+   margin-top: 600px;
+   
+    
+}
+
+
+    
+    
+
+
